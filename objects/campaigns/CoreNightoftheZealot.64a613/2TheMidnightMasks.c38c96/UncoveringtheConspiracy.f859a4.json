@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 232410,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "2324": {
+      "BackIsHidden": true,
+      "BackURL": "http://cloud-3.steamusercontent.com/ugc/775106514377428854/F01972D15C2B4CFCB8CA72006B7E00D243683AFA/",
+      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/775106514377429266/856DF4A8D87D7B6CB71572D20908D35F4182AC45/",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Act 1",
+  "DragSelectable": true,
+  "GMNotes_path": "CoreNightoftheZealot.64a613/2TheMidnightMasks.c38c96/UncoveringtheConspiracy.f859a4.gmnotes",
+  "GUID": "f859a4",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Uncovering the Conspiracy",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ScenarioCard"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -2.688,
+    "posY": 1.597,
+    "posZ": -5.048,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}
